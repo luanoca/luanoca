@@ -1,4 +1,5 @@
-BOAS VINDAS AO MEU PERIL 
+### BOAS VINDAS AO MEU PERIL 
 
-Me chamo Luana
-Estudo no Colégio Estadual Civico Militar Basilio de Lucca
+- Me chamo Luana
+- Estudo no Colégio Estadual Civico Militar Basilio de Lucca
+- Estudo coreano
