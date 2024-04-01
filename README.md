@@ -2,4 +2,4 @@
 
 - Me chamo Luana
 - Estudo no Colégio Estadual Civico Militar Basilio de Lucca
-- Estudo coreano
+- Tenho 16 anos
